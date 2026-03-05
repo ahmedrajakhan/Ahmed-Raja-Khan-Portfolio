@@ -1,4 +1,4 @@
-# ahmed-raja-khan-portfolio
+# Ahmed-Raja-Khan-Portfolio
 
 # Ahmed Raja Khan - Data Analyst Portfolio
 
