@@ -51,7 +51,7 @@
 
 <div align="center">
   
-[![View Resume]()
+[![View Resume](https://github.com/ahmedrajakhan/Ahmed-Raja-Khan-Portfolio/blob/main/AHMED%20RAJA%20KHAN%20Lucknow%2C%20Uttar%20Pradesh%20%20%2B91-XXXXXXXXXX%20%20ahmedrajakhan%40email.com%20%5BLinkedIn%20Profile%5D%20%20%5BPortfolio%20Link%5D.pdf%20(9).pdf)
 
 **ATS-Friendly Resume | 94/100 Score | Globally Optimized**
 
@@ -296,4 +296,3 @@ const ahmed = {
 
 ---
 
-Ye **globally optimized README** hai - kisi specific country ka naam nahi hai, universally applicable hai. Koi aur modification chahiye? 😊
