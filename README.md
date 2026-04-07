@@ -51,7 +51,12 @@
 
 <div align="center">
   
-[![View Resume](https://github.com/ahmedrajakhan/Ahmed-Raja-Khan-Portfolio/blob/main/AHMED%20RAJA%20KHAN%20Lucknow%2C%20Uttar%20Pradesh%20%20%2B91-XXXXXXXXXX%20%20ahmedrajakhan%40email.com%20%5BLinkedIn%20Profile%5D%20%20%5BPortfolio%20Link%5D.pdf%20(9).pdf)
+| Resume Version | File Path | Status |
+|:--------------:|:---------:|:------:|
+| **Original Resume** | [`./indian resume_page-0001.jpg`](./indian resume_page-0001.jpg) | 📄 Ready |
+| **ATS-Optimized Version** | [`./AHMED_RAJA_KHAN_Resume.pdf`](./AHMED_RAJA_KHAN_Resume.pdf) | ✅ Recommended |
+
+[![View Resume](https://img.shields.io/badge/📄%20View%20Resume-Click%20Here-1A4D8C?style=for-the-badge)](./AHMED_RAJA_KHAN_Resume.pdf)
 
 **ATS-Friendly Resume | 94/100 Score | Globally Optimized**
 
@@ -69,7 +74,7 @@
 
 | 💰 **Marketing Savings** | 🎯 **Churn Prediction** | 📊 **Loans Analyzed** | 💹 **Recovery Potential** |
 |:---:|:---:|:---:|:---:|
-| **₹2.1M** | **87% Accuracy** | **38,576** | **₹17.6L** |
+| **$25K+** | **87% Accuracy** | **38,576** | **$210K+** |
 
 | 👥 **Attrition Prediction** | 📉 **Power BI Dashboards** |
 |:---:|:---:|
@@ -101,7 +106,7 @@
 <div align="center">
 
 ### 📊 **Data Analyst**
-**Newgen Technomate LLP** | Noida, India | *Feb 2024 – Present*
+**Newgen Technomate LLP** | *Feb 2024 – Present*
 
 | Achievement | Impact |
 |:-----------:|:------:|
@@ -111,7 +116,7 @@
 | 🔹 Implemented research-based data collection frameworks | **35% ↑ Data Quality** |
 
 ### 📈 **Intern – Data Analysis**
-**Enixo Corporate Solutions Pvt. Ltd.** | Noida, India | *Aug 2023 – Jan 2024*
+**Enixo Corporate Solutions Pvt. Ltd.** | *Aug 2023 – Jan 2024*
 
 | Achievement | Impact |
 |:-----------:|:------:|
@@ -129,11 +134,11 @@
 
 | Project | Tech Stack | Key Impact | Link |
 |:-------:|:----------:|:----------:|:----:|
-| **📈 Marketing ROI Analysis** | Python, AWS, Power BI, AutoML | **₹2.1M savings** • 95% accuracy • 60% faster analysis • 7,500+ campaigns | [🔗 View](https://github.com/ahmedrajakhan56-png/Marketing-ROI-Analysis) |
+| **📈 Marketing ROI Analysis** | Python, AWS, Power BI, AutoML | **$25K+ savings** • 95% accuracy • 60% faster analysis • 7,500+ campaigns | [🔗 View](https://github.com/ahmedrajakhan56-png/Marketing-ROI-Analysis) |
 | **🎬 Customer Churn Analysis** | Python, SQL, AWS Athena, Power BI | **87% accuracy** • 22% churn reduction • 5,000+ users • Key churn drivers identified | [🔗 View](https://github.com/ahmedrajakhan56-png/OTT-Customer-Churn-Analysis) |
 | **💰 Bank Loan Analysis** | Python, Jupyter, SQL | **38,576 applications** • 85% risk accuracy • Portfolio segmentation by grade, purpose | [🔗 View](https://github.com/ahmedrajakhan56-png/BANK_LOAN_ANALYSIS) |
-| **📦 Product Analysis** | Python, AWS, Power BI, SQL | **₹17.6L recovery potential** • 140% ROI • 165 loss products identified • AWS pipeline | [🔗 View](https://github.com/ahmedrajakhan56-png/amazon-analysis) |
-| **👥 Workforce Analytics** | Python, SQL, Power BI, AWS | **₹11.85Cr loss quantified** • 83% accuracy • Overtime & low salary = top drivers | [🔗 View](https://github.com/ahmedrajakhan56-png/HR-Attrition-Analytics) |
+| **📦 Product Analysis** | Python, AWS, Power BI, SQL | **$210K+ recovery potential** • 140% ROI • 165 loss products identified • AWS pipeline | [🔗 View](https://github.com/ahmedrajakhan56-png/amazon-analysis) |
+| **👥 Workforce Analytics** | Python, SQL, Power BI, AWS | **$1.4M+ loss quantified** • 83% accuracy • Overtime & low salary = top drivers | [🔗 View](https://github.com/ahmedrajakhan56-png/HR-Attrition-Analytics) |
 
 </div>
 
@@ -142,15 +147,15 @@
 ## 🎓 **EDUCATION & CERTIFICATIONS**
 
 <div align="center">
-  <table>
+  <tr>
     <tr>
       <td width="50%" style="padding: 15px;">
         <h3>🎓 Master of Computer Applications (MCA)</h3>
-        <p><b>Data Science & Analytics</b><br>Manipal University Jaipur (Online)<br><i>July 2025 – July 2027 (Expected)</i></p>
+        <p><b>Data Science & Analytics</b><br>University (Online)<br><i>July 2025 – July 2027 (Expected)</i></p>
       </td>
       <td width="50%" style="padding: 15px;">
         <h3>📖 BA (Hons) Sociology</h3>
-        <p><b>First Division (61.65%)</b><br>IGNOU | 2021 – 2024<br><i>Specialization: Sociological Research Methods</i></p>
+        <p><b>First Division</b><br>University | 2021 – 2024<br><i>Specialization: Sociological Research Methods</i></p>
       </td>
     </tr>
   </table>
@@ -230,8 +235,14 @@
 
 <div align="center">
   
-### 📄 **ATS-Optimized Resume**
-[![View Resume](https://img.shields.io/badge/⬇️%20Download%20Resume-Click%20Here-1A4D8C?style=for-the-badge)](https://github.com/ahmedrajakhan/Ahmed-Raja-Khan-Portfolio/blob/main/AHMED%20RAJA%20KHAN%20Resume.pdf)
+### 📄 **Resume Files**
+
+| File | Description |
+|:----:|:-----------:|
+| [`indian resume_page-0001.jpg`](./indian resume_page-0001.jpg) | Original resume (image format) |
+| [`AHMED_RAJA_KHAN_Resume.pdf`](./AHMED_RAJA_KHAN_Resume.pdf) | ATS-optimized PDF version |
+
+[![Download Resume](https://img.shields.io/badge/⬇️%20Download%20Resume%20(PDF)-Click%20Here-1A4D8C?style=for-the-badge)](./AHMED_RAJA_KHAN_Resume.pdf)
 
 </div>
 
@@ -247,7 +258,7 @@ const ahmed = {
   experience: "2.6+ years",
   skills: ["Python", "SQL", "Power BI", "AWS"],
   availability: "Immediate",
-  location: "India (Open to Global)",
+  location: "Open to Global",
   contact: {
     email: "ahmedrajakhan56@gmail.com",
     phone: "+91 9519764846"
@@ -256,43 +267,3 @@ const ahmed = {
 };
 
 // Let's connect and create data magic together! ✨
-```
-
-</div>
-
----
-
-<div align="center">
-  
-### ⭐ *Open to global opportunities - Ready to bring my analytics expertise to your team anywhere in the world!*
-
-<img src="https://raw.githubusercontent.com/ahmedrajakhan56-png/portfolio/main/assets/global-footer.gif?raw=true" width="300"/>
-
-<br>
-
-📍 **Based in Noida, India** | 🌍 **Open to Worldwide Opportunities** | ✈️ **Immediate Relocation Available** | 💻 **Remote Ready**
-
-*Last Updated: March 2026*
-
-</div>
-
----
-
-## 📌 **REPOSITORIES**
-
-<div align="center">
-
-| Repository | Description | Stars |
-|:----------:|:-----------:|:-----:|
-| [Marketing-ROI-Analysis](https://github.com/ahmedrajakhan56-png/Marketing-ROI-Analysis) | ₹2.1M savings through campaign optimization | ⭐ |
-| [Customer-Churn-Analysis](https://github.com/ahmedrajakhan56-png/OTT-Customer-Churn-Analysis) | 87% accuracy, 22% churn reduction | ⭐ |
-| [Bank-Loan-Analysis](https://github.com/ahmedrajakhan56-png/BANK_LOAN_ANALYSIS) | 38,576 applications with 85% risk accuracy | ⭐ |
-| [Product-Analytics](https://github.com/ahmedrajakhan56-png/amazon-analysis) | ₹17.6L recovery potential identified | ⭐ |
-| [Workforce-Analytics](https://github.com/ahmedrajakhan56-png/HR-Attrition-Analytics) | ₹11.85Cr loss quantified | ⭐ |
-
-**⭐ Star your favorites if you find them useful!**
-
-</div>
-
----
-
